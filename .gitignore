@@ -1,0 +1,11 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+frontend/dist/
+logs/
+data/users.json
+data/.secret
+data/*.tmp
